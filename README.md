@@ -230,5 +230,3 @@ The dataset source and any tutorials or learning resources used for this project
 **Reshma Mocherla**
 
 [GitHub Profile](https://github.com/ReshmaMocherla)
-
-*This project is intended for learning and demonstration. The predicted prices are estimates and should not be treated as professional property valuations.*
